@@ -1,0 +1,59 @@
+body{
+  background: black;
+}
+
+#titlecard{
+  font-family: "Verdana";
+  font-size: 30px;
+  color: white;
+  background: blue;
+  display: block;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
+
+.ec_row1{
+  float:left;
+  height: 160px;
+  width: 295px;
+
+}
+
+.ec_row2{
+  float:left;
+  height: 160px;
+  width: 295px;
+}
+
+#space{
+  background: white;
+  height: 250px;
+  width: 590px;
+  }
+
+#face{
+  position:relative;
+  height: 100px;
+  top: 130px;
+  left: 100px;
+
+  background: purple;
+  display: block;
+  width: 200px;
+}
+#goodly{
+  background: yellow;
+}
+#microbots{
+  background: green;
+}
+#cleanWebHackathon{
+  background:brown;
+  clear:both;
+}
+#resume{
+  background: red;
+}
